@@ -1,3 +1,22 @@
+# ==========================================
+# Python for AI Engineering - Day 1
+# ==========================================
+
+# Topics Covered:
+# 1. Functions
+# 2. Parameters and Arguments
+# 3. Return Statement
+# 4. Default Parameters
+# 5. Multiple Returns
+# 6. Modules [NOT DONE]
+# 7. Imports
+# 8. Error Handling
+# 9. Type Hints
+# 10. Clean Code
+# 11. Single Responsibility Principle (SRP)
+# 12. Mini Project - AI Data Pipeline Simulator
+# 13. Git and GitHub
+
 print("=== AI Data Pipeline Simulator ===")
 
 
