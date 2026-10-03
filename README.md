@@ -123,3 +123,87 @@ Practical Concepts Used
 •	Logging program events and errors
 •	Saving structured data using json.dump()
 •	Displaying JSON data using json.dumps()
+
+
+
+##🎯 Day 4 — NumPy + Pandas for Pipelines
+
+### Topics Covered
+
+#### NumPy
+
+* Creating NumPy arrays
+* 1D and 2D arrays
+* Array indexing
+* Array slicing
+* `shape`
+* Filtering data with conditions
+* Multiple conditions using `&` and `|`
+* `sum()`
+* `mean()`
+* `max()`
+* `min()`
+
+#### Pandas
+
+* Loading CSV files with `read_csv()`
+* Working with DataFrames
+* `head()`
+* `tail()`
+* `shape`
+* `columns`
+* `dtypes`
+* `info()`
+* `describe()`
+* Selecting single and multiple columns
+* Selecting rows with `iloc`
+* Selecting data with `loc`
+* Data filtering
+* Multiple filtering conditions
+* Sorting with `sort_values()`
+* Missing values with `isna()`
+* Removing missing rows with `dropna()`
+* Filling missing values with `fillna()`
+* Finding duplicates with `duplicated()`
+* Removing duplicates with `drop_duplicates()`
+* Counting values with `value_counts()`
+* Grouping data with `groupby()`
+* Applying functions with `apply()`
+* Saving processed data with `to_csv()`
+
+### Practical Project — Data Processing Pipeline
+
+Built a basic **Data Processing Pipeline** using NumPy and Pandas.
+
+### Project Flow
+
+```text
+Raw CSV Data
+     ↓
+Load Data
+     ↓
+Inspect Data
+     ↓
+Handle Missing Values
+     ↓
+Remove Duplicates
+     ↓
+Filter Data
+     ↓
+Process Data
+     ↓
+Sort Data
+     ↓
+Perform NumPy Calculations
+     ↓
+Analyze Data
+     ↓
+Save Processed CSV
+```
+
+### Project Files
+
+* `main.py` — Contains the complete data processing pipeline
+* `students_raw.csv` — Raw input data
+* `students_processed.csv` — Final processed_
+
