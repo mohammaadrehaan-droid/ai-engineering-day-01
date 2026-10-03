@@ -1,0 +1,32 @@
+INFO:root:Program started
+ERROR:root:Student CSV file not found
+INFO:root:Data saved to JSON successfully
+INFO:root:Program completed
+INFO:root:Program started
+ERROR:root:Student CSV file not found
+INFO:root:Data saved to JSON successfully
+INFO:root:Program completed
+INFO:root:Program started
+ERROR:root:Student CSV file not found
+INFO:root:Data saved to JSON successfully
+INFO:root:Program completed
+INFO:root:Program started
+INFO:root:CSV file opened successfully
+INFO:root:Data processed successfully
+INFO:root:Data processed successfully
+INFO:root:Data processed successfully
+ERROR:root:Invalid age found
+ERROR:root:Invalid age found
+INFO:root:Data processed successfully
+INFO:root:Data saved to JSON successfully
+INFO:root:Program completed
+INFO:root:Program started
+INFO:root:CSV file opened successfully
+INFO:root:Data processed successfully
+INFO:root:Data processed successfully
+INFO:root:Data processed successfully
+ERROR:root:Invalid age found
+ERROR:root:Invalid age found
+INFO:root:Data processed successfully
+INFO:root:Data saved to JSON successfully
+INFO:root:Program completed

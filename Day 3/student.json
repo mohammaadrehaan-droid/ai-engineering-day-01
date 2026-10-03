@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Muhammad Rehan",
+        "Age": 21,
+        "Education": "Matric",
+        "Course": "BSCS(AI)"
+    },
+    {
+        "Name": "Ali",
+        "Age": 20,
+        "Education": "Intermediate",
+        "Course": "BSCS"
+    },
+    {
+        "Name": "Ahmed",
+        "Age": 22,
+        "Education": "Intermediate",
+        "Course": "Data Science"
+    },
+    {
+        "Name": "Zain",
+        "Age": 19,
+        "Education": "Matric",
+        "Course": "BSCS"
+    }
+]
